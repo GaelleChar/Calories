@@ -1,0 +1,1376 @@
+butter,717,0.85,81.11,0.06
+butter oil,876,0.28,99.48,0.00
+cheese,353,21.40,28.74,2.34
+cheese fd,331,19.66,24.46,8.32
+cheese sprd,290,16.41,21.23,8.73
+cream,123,3.13,10.39,4.73
+eggnog,88,4.55,4.19,8.05
+sour drsng,178,3.25,16.57,4.68
+milk,63,3.33,3.46,4.74
+cream sub,136,1.00,9.97,11.38
+cream substitute,529,2.48,32.92,59.29
+dessert topping,577,4.90,39.92,52.54
+sour crm,208,2.40,19.52,6.63
+milk substitutes,61,1.75,3.41,6.16
+milk shakes,119,3.05,2.70,21.15
+whey,24,0.76,0.09,5.12
+yogurt,61,3.47,3.25,4.66
+egg,143,12.56,9.51,0.72
+egg substitute,444,55.50,13.00,21.80
+cheese sub,248,11.47,12.22,23.67
+cheese sau,197,10.33,14.92,5.48
+sour cream,181,7.00,14.10,7.00
+usda commodity,282,27.20,18.30,2.00
+parmesan chs topping,370,40.00,5.00,40.00
+kraft cheez whiz past process chs sau,276,12.00,21.00,9.20
+kraft cheez whiz lt past process chs product,215,16.30,9.50,16.20
+kraft free singles american nonfat past process chs product,148,22.70,1.00,11.70
+kraft velveeta past process chs sprd,303,16.30,22.00,9.80
+kraft velveeta lt red fat past process chs product,222,19.60,10.60,11.80
+kraft breakstone's red fat sour crm,152,4.50,12.00,6.50
+kraft breakstone's free fat free sour crm,91,4.70,1.30,15.10
+reddi wip fat free whipped topping,149,3.00,5.00,25.00
+egg mix,555,35.60,34.50,23.97
+cheese product,240,17.60,14.10,10.60
+protein supp,411,45.71,17.14,18.50
+dulce de leche,315,6.84,7.35,55.35
+egg sub,48,10.00,0.00,2.00
+ice crm,222,4.10,13.00,22.20
+ice crm sndwch,237,4.29,8.57,37.14
+ice crm cookie sndwch,240,3.70,7.40,39.60
+ice crm cone,354,5.21,21.88,34.38
+fat free ice crm,129,4.41,0.00,27.94
+milk dssrt bar,147,4.41,1.47,33.09
+nutritional supp for people w/ diabetes,88,4.40,3.08,11.88
+ice crm bar,358,2.11,25.26,37.12
+kefir,41,3.79,0.93,4.48
+ice crm sundae cone,254,3.00,14.00,28.89
+light ice crm,165,1.54,3.08,32.75
+allspice,263,6.09,8.69,72.12
+anise seed,337,17.60,15.90,50.02
+spices,233,22.98,4.07,47.75
+caraway seed,333,19.77,14.59,49.90
+celery seed,392,18.07,25.27,41.35
+chervil,237,23.20,3.90,49.10
+chili powder,282,13.46,14.28,49.70
+cinnamon,247,3.99,1.24,80.59
+cloves,274,5.97,13.00,65.53
+coriander leaf,279,21.93,4.78,52.10
+coriander seed,298,12.37,17.77,54.99
+cumin seed,375,17.81,22.27,44.24
+curry powder,325,14.29,14.01,55.83
+dill seed,305,15.98,14.54,55.17
+dill weed,253,19.96,4.36,55.82
+fennel seed,345,15.80,14.87,52.29
+fenugreek seed,323,23.00,6.41,58.35
+garlic powder,331,16.55,0.73,72.73
+ginger,335,8.98,4.24,71.62
+mace,475,6.71,32.38,50.50
+marjoram,271,12.66,7.04,60.56
+nutmeg,525,5.84,36.31,49.29
+onion powder,341,10.41,1.04,79.12
+paprika,282,14.14,12.89,53.99
+parsley,292,26.63,5.48,50.64
+pepper,251,10.39,3.26,63.95
+poppy seed,525,17.99,41.56,28.13
+poultry seasoning,307,9.59,7.53,65.59
+pumpkin pie spice,342,5.76,12.60,69.28
+rosemary,331,4.88,15.22,64.06
+saffron,310,11.43,5.85,65.37
+sage,315,10.63,12.75,60.73
+savory,272,6.73,5.91,68.73
+turmeric,312,9.68,3.25,67.14
+basil,23,3.15,0.64,2.65
+mustard,60,3.74,3.34,5.83
+salt,0,0.00,0.00,0.00
+vinegar,21,0.00,0.00,0.93
+thyme,101,5.56,1.68,24.45
+vanilla extract,288,0.06,0.06,12.65
+capers,23,2.36,0.86,4.89
+horseradish,48,1.18,0.69,11.29
+peppermint,70,3.75,0.94,14.89
+spearmint,44,3.29,0.73,8.41
+pace,188,0.00,0.00,56.29
+seasoning mix,0,0.00,0.00,0.00
+clif z bar,409,5.55,9.72,74.72
+babyfood,347,0.00,0.02,86.68
+babyfood  dinner  chick stew  todd,78,5.20,3.70,6.40
+zwieback,426,10.10,9.70,74.20
+inf formula,66,1.45,3.37,7.39
+infant formula,63,1.38,3.50,7.18
+inf formu,131,2.76,6.96,14.34
+inf form,502,14.20,25.00,55.00
+child formula,483,16.50,22.00,54.80
+inf formula. mead johnson,519,14.00,28.00,52.80
+inf for,64,1.38,3.50,7.18
+inf fo,126,3.53,6.73,13.12
+infformula,131,3.19,7.11,13.58
+chi formu,99,2.80,4.70,11.28
+infform,63,1.52,3.50,6.39
+toddl form,501,13.00,26.90,56.00
+toddler formula,64,1.78,3.63,7.18
+babyfd,109,0.71,0.37,25.78
+babyfoo,92,1.01,0.36,21.31
+fat,902,0.00,100.00,0.00
+lard,902,0.00,100.00,0.00
+salad drsng,334,0.60,32.90,8.50
+sandwich sprd,389,0.90,34.00,22.40
+shortening,884,0.00,100.00,0.00
+oil,884,0.00,100.00,0.00
+margarine,719,0.90,80.50,0.90
+veg oil sprd,339,0.51,37.77,0.66
+vegetable oil,862,0.00,100.00,0.00
+shortening bread,884,0.00,100.00,0.00
+shortening cake mix,884,0.00,100.00,0.00
+shortening industrial,900,0.00,100.00,0.00
+shortening frying (hvy duty),900,0.00,100.00,0.00
+shortening confectionery,884,0.00,100.00,0.00
+shortening household soybn (hydr)&palm,884,0.00,100.00,0.00
+shortening frying hvy duty,884,0.00,100.00,0.00
+margarine-like,727,0.31,80.32,0.77
+fish oil,902,0.00,100.00,0.00
+meat drippings (lard,889,0.00,98.59,0.00
+animal fat,897,0.00,99.50,0.00
+margarine-like sprd w/ yogurt,630,0.30,70.00,0.50
+margarine sprd,424,0.20,47.53,0.86
+margarine-like shortening,628,0.00,71.00,0.00
+usda cmdty fd,884,0.00,100.00,0.00
+margarine-like sprd,583,0.14,64.63,0.14
+veg-oil sprd,535,0.60,59.17,0.00
+dressing,169,1.07,1.47,38.43
+mayonnaise,361,0.37,40.00,0.00
+chicken,144,28.04,3.57,0.00
+canada goose,133,24.31,4.02,0.00
+duck,404,11.49,39.34,0.00
+goose,371,15.86,33.62,0.00
+guinea hen,158,23.40,6.45,0.00
+pheasant,181,22.70,9.29,0.00
+quail,192,19.63,12.05,0.00
+squab,294,18.47,23.80,0.00
+turkey,143,21.64,5.64,0.13
+turkey from whl,125,16.51,6.04,0.00
+turkey from whole,108,21.28,2.50,0.15
+pate de foie gras,462,11.40,43.84,4.67
+turkey and gravy,67,5.88,2.63,4.61
+turkey breast,126,22.16,3.46,0.00
+turkey thigh,157,18.80,8.54,0.00
+turkey rst,120,17.60,2.20,6.40
+turkey stks,279,14.20,16.90,17.00
+poultry,272,11.39,24.73,0.00
+ground turkey,148,19.66,7.66,0.00
+ckn,108,20.32,3.00,0.00
+chicken patty,292,14.33,20.04,13.61
+chicken breast tenders,252,16.35,12.89,17.56
+chick,215,19.40,14.60,0.20
+usda cmdty chick,162,27.52,5.72,0.00
+usda cmdty,129,22.02,4.58,0.00
+ruffed grouse,112,25.94,0.88,0.00
+emu,134,22.77,4.03,0.00
+ostrich,165,20.22,8.70,0.00
+chickn,157,32.06,3.24,0.00
+chckn,151,30.54,3.17,0.00
+soup,69,1.82,3.26,8.52
+campbell's red & white,40,2.38,1.59,4.76
+campbell's,46,1.59,1.19,7.19
+campbell's red&white,56,2.38,1.98,7.94
+campbells red & white,16,3.23,0.00,0.81
+sauce,89,5.93,0.02,15.56
+gravy,16,1.20,0.20,2.50
+grvy,48,0.71,2.62,5.29
+split pea soup,71,3.85,0.92,11.83
+split pea w/ ham soup,68,4.00,0.70,11.40
+prego pasta,69,1.54,2.31,10.00
+campbell's chunky microwavable bwls,78,3.27,3.67,7.35
+campbell's chunky soups,78,2.04,3.67,9.39
+campbell's chunky,66,2.32,3.19,7.09
+campbell's lo na soups,10,1.01,0.34,0.34
+campbell's red & white - mcrwveable bowls,30,1.63,0.82,4.08
+campbell's red & white - microwaveable bowls,30,0.82,0.41,5.71
+campbell's homestyle butternut squash bisque,45,0.41,1.22,7.76
+campbell's homestyle lt new england clam chowder,49,2.45,1.63,6.12
+campbell's homestyle hr mexican style chick tortilla,53,2.86,1.02,7.76
+campbell's homestyle italian-style wedding soup,49,2.86,1.43,6.12
+campbell's homestyle mexican style chick tortilla soup,53,2.86,0.82,8.16
+campbell's homestyle minestrone soup,41,1.63,0.41,7.35
+campbell's homestyle new england clam chowder,70,2.33,4.23,5.68
+campbell's homestyle potato broccoli chs soup,65,1.22,3.67,6.94
+campbell's homestyle chick w/ white & wild rice soup,41,2.45,0.41,6.94
+campbell's homestyle veg medley soup,37,1.22,0.20,7.35
+campbell's soup on the go,33,0.66,0.16,6.89
+swanson broth,5,0.00,0.00,1.28
+campbell's homestyle lt italian-style wedding soup,33,2.45,0.61,4.49
+smart soup,55,2.00,0.71,11.20
+fish broth,16,2.00,0.60,0.40
+potato soup,343,9.20,3.10,76.14
+campbell's healthy request,47,2.40,1.30,6.51
+healthy request,56,0.81,1.61,9.68
+barbecue loaf,173,15.84,8.90,6.40
+beerwurst,277,14.00,22.53,3.76
+sausage  berliner  pork  bf,230,15.27,17.20,2.59
+blood sausage,379,14.60,34.50,1.29
+bockwurst  pork  veal  raw,301,14.03,25.87,2.95
+bologna,299,10.91,26.13,4.29
+bologna  turkey,209,11.42,16.05,4.68
+bratwurst,333,13.72,29.18,2.85
+braunschweiger (a liver sausage),327,14.50,28.50,3.10
+brotwurst,323,14.30,27.80,2.98
+cheesefurter,328,14.10,29.00,1.51
+chicken sprd,158,18.01,17.56,4.05
+chorizo,455,24.10,38.27,1.86
+corned beef loaf,153,22.90,6.10,0.00
+dutch brand loaf,273,12.00,22.91,3.93
+frankfurter,315,11.69,28.10,2.97
+ham,239,16.06,18.83,0.26
+ham salad spread,216,8.68,15.53,10.64
+ham&chs loaf or roll,241,13.60,18.70,4.00
+ham and cheese spread,245,16.18,18.53,2.28
+headcheese,157,13.83,10.90,0.00
+sausage,346,14.25,31.33,0.65
+knackwurst  knockwurst  pork  bf,307,11.10,27.70,3.20
+lebanon bologna  bf,172,19.03,10.44,0.44
+liver cheese,304,15.20,25.60,2.10
+liver sausage,326,14.10,28.50,2.20
+roast bf,115,18.62,3.69,0.64
+luncheon meat,334,12.50,30.30,2.10
+mortadella,311,16.37,25.39,3.05
+olive loaf,235,11.80,16.50,9.20
+pastrami,139,16.30,6.21,3.34
+pate,201,13.45,13.10,6.55
+peppered loaf  pork  bf,149,17.30,6.37,4.53
+pepperoni,504,19.25,46.28,1.18
+pickle&pimiento loaf,225,11.23,15.95,8.46
+polish sausage,326,14.10,28.72,1.63
+luxury loaf,141,18.40,4.80,4.90
+mother's loaf,282,12.07,22.30,7.53
+picnic loaf,232,14.92,16.64,4.76
+pork sausage,288,15.39,24.80,0.93
+pork&bf sausage,396,13.80,36.25,2.70
+turkey sausage,204,17.00,10.30,10.92
+poultry salad sndwch sprd,200,11.64,13.52,7.41
+salami  ckd  bf,261,12.60,22.20,1.90
+salami,336,21.85,25.90,2.40
+sandwich spread,235,7.66,17.34,11.94
+smoked link sausage,309,11.98,28.23,0.94
+thuringer,362,17.45,30.43,3.33
+honey roll sausage,182,18.58,10.50,2.18
+luncheon sausage,260,15.38,20.90,1.58
+new england brand sausage,161,17.27,7.58,4.83
+oscar mayer,316,11.05,29.10,2.45
+oscar mayer  chicken breast (honey glazed),109,19.85,1.50,4.30
+turkey bacon,226,15.94,16.93,1.89
+hormel pillow pak sliced turkey pepperoni,243,30.99,11.52,3.78
+bratwurst  veal  ckd,341,13.99,31.70,0.00
+liverwurst sprd,305,12.38,25.45,5.89
+roast bf sprd,223,15.27,16.28,3.73
+salami  pork  bf  less na,396,15.01,30.50,15.38
+sausage  italian  swt  links,149,16.13,8.42,2.10
+sausage  polish  bf w/ chick  hot,259,17.60,19.40,3.60
+sausage  polish  pork & bf  smoked,301,12.07,26.56,1.98
+sausage  pork & bf  w/ cheddar chs  smoked,296,12.89,25.84,2.13
+sausage  smmr  pork & bf  stks  w/ cheddar chs,426,19.43,37.91,1.82
+sausage  turkey  brkfst links  mild,235,15.42,18.09,1.56
+swisswurst  pork & bf  w/ swiss chs  smoked,307,12.69,27.37,1.60
+bacon & bf stks,517,29.10,44.20,0.80
+bratwurst  bf & pork  smoked,297,12.20,26.34,2.00
+bratwurst  pork  bf & turkey  lite  smoked,186,14.45,13.53,1.62
+pastrami  bf  98% fat-free,95,19.60,1.16,1.54
+salami  italian  pork,425,21.70,37.00,1.20
+sausage  italian  turkey  smoked,158,15.05,8.75,4.65
+sausage  chick  bf  pork  skinless  smoked,216,13.60,14.30,8.10
+sausage  turkey  hot  smoked,158,15.05,8.75,4.65
+yachtwurst,268,14.80,22.60,1.40
+beerwurst  pork & bf,276,14.00,22.53,4.27
+chicken breast  fat-free  mesq flavor  sliced,80,16.80,0.39,2.25
+chicken breast  oven-roasted  fat-free  sliced,79,16.79,0.39,2.17
+kielbasa,226,13.10,17.60,3.90
+oven-roasted chick breast roll,134,14.59,7.65,1.79
+bologna  pork & turkey  lite,211,13.06,16.06,3.45
+bologna  pork  turkey & bf,336,11.56,29.25,6.66
+ham  honey  smoked  ckd,122,17.93,2.37,7.27
+macaroni & chs loaf  chick  pork & bf,228,11.76,14.96,11.63
+salami  italian  pork & bf  dry  sliced  50% less na,350,21.80,26.40,6.40
+pate  truffle flavor,327,11.20,28.50,6.30
+turkey  white  rotisserie  deli cut,112,13.50,3.00,7.70
+frankfurter  bf  htd,322,11.69,29.36,2.66
+frankfurter  meat  htd,278,9.77,24.31,4.90
+frankfurter  meat,290,10.26,25.76,4.17
+scrapple,213,8.06,13.87,14.06
+beef sausage,405,15.50,37.57,0.03
+pork & turkey sausage,342,12.05,30.64,3.63
+chicken breast,98,17.40,1.86,2.92
+meatballs,286,14.40,22.21,8.06
+bacon,253,13.33,20.00,4.80
+cereals rte,259,13.14,4.90,74.24
+cereals,370,7.65,1.75,79.09
+milk & crl bar,413,6.47,10.98,72.05
+rice & wheat crl bar,409,9.09,9.09,72.73
+incaparina,379,21.75,5.58,60.53
+acerola,32,0.40,0.30,7.69
+acerola juice,23,0.40,0.30,4.80
+apples,52,0.26,0.17,13.81
+apple juc,46,0.10,0.13,11.30
+applesauce,42,0.17,0.10,11.27
+apricots,48,1.40,0.39,11.12
+apricot nectar,56,0.37,0.09,14.39
+avocados,160,2.00,14.66,8.53
+bananas,89,1.09,0.33,22.84
+blackberries,43,1.39,0.49,9.61
+blackberry juc,38,0.30,0.60,7.80
+cherries,333,1.25,0.73,80.45
+blueberries,57,0.74,0.33,14.49
+boysenberries,88,0.99,0.12,22.31
+breadfruit,103,1.07,0.23,27.12
+carambola,31,1.04,0.33,6.73
+carissa,62,0.50,1.30,13.63
+cherimoya,75,1.57,0.68,17.71
+crabapples,76,0.40,0.30,19.95
+cranberries,46,0.46,0.13,11.97
+cranberry sau,159,0.90,0.15,40.40
+cranberry-orange relish,178,0.30,0.10,46.20
+currants,63,1.40,0.41,15.38
+custard-apple,101,1.70,0.60,25.20
+dates,282,2.45,0.39,75.03
+elderberries,73,0.66,0.50,18.40
+figs,74,0.75,0.30,19.18
+fruit cocktail,32,0.42,0.05,8.51
+fruit salad,30,0.35,0.07,7.87
+gooseberries,44,0.88,0.58,10.18
+goji berries,349,14.26,0.39,77.06
+grapefruit,32,0.63,0.10,8.08
+grapefruit juc,34,0.58,0.10,7.93
+grapes,57,0.81,0.47,13.93
+grape juc,60,0.37,0.13,14.77
+groundcherries,53,1.90,0.70,11.20
+guavas,68,2.55,0.95,14.32
+guava sauce,36,0.32,0.14,9.48
+jackfruit,95,1.72,0.64,23.25
+java-plum,60,0.72,0.23,15.56
+jujube,79,1.20,0.20,20.23
+kiwifruit,61,1.14,0.52,14.66
+kumquats,71,1.88,0.86,15.90
+lemons,29,1.10,0.30,9.32
+lemon juice,22,0.35,0.24,6.90
+lemon juc from conc,17,0.45,0.07,5.62
+lemon juc,22,0.46,0.32,6.50
+lemon peel,47,1.50,0.30,16.00
+limes,30,0.70,0.20,10.54
+lime juice,25,0.42,0.07,8.42
+lime juc,21,0.25,0.23,6.69
+litchis,66,0.83,0.44,16.53
+loganberries,55,1.52,0.31,13.02
+longans,60,1.31,0.10,15.14
+loquats,47,0.43,0.20,12.14
+mammy-apple,51,0.50,0.50,12.50
+mangos,60,0.82,0.38,14.98
+mangosteen,73,0.41,0.58,17.91
+mango,319,2.45,1.18,78.58
+melons,34,0.84,0.19,8.16
+melon balls,33,0.84,0.25,7.94
+mulberries,43,1.44,0.39,9.80
+nectarines,44,1.06,0.32,10.55
+oheloberries,28,0.38,0.22,6.84
+olives,115,0.84,10.68,6.26
+oranges,47,0.94,0.12,11.75
+orange juice,45,0.70,0.20,10.40
+orange juc,47,0.68,0.15,11.01
+orange peel,97,1.50,0.20,25.00
+orange-grapefruit juc,43,0.60,0.10,10.28
+tangerines,53,0.81,0.31,13.34
+tangerine juice,43,0.50,0.20,10.10
+tangerine juc,50,0.50,0.20,12.00
+papayas,43,0.47,0.26,10.82
+papaya,206,0.14,0.55,55.83
+papaya nectar,57,0.17,0.15,14.51
+passion-fruit,97,2.20,0.70,23.38
+passion-fruit juc,51,0.39,0.05,13.60
+peaches,39,0.91,0.25,9.54
+peach nectar,54,0.27,0.02,13.92
+pears,57,0.36,0.14,15.23
+pear nectar,60,0.11,0.01,15.76
+persimmons,70,0.58,0.19,18.59
+pineapple,50,0.54,0.12,13.12
+pineapple juc,53,0.36,0.12,12.87
+pitanga,33,0.80,0.40,7.49
+plantains,122,1.30,0.37,31.89
+plums,46,0.70,0.28,11.42
+pomegranates,83,1.67,1.17,18.70
+prickly pears,41,0.73,0.51,9.57
+prunes,105,0.87,0.20,27.80
+prune juice,71,0.61,0.03,17.45
+pummelo,38,0.76,0.04,9.62
+quinces,57,0.40,0.10,15.30
+raisins,302,3.39,0.46,79.52
+rambutan,82,0.65,0.21,20.87
+raspberries,52,1.20,0.65,11.94
+rhubarb,21,0.90,0.20,4.54
+roselle,49,0.96,0.64,11.31
+rose-apples,25,0.60,0.30,5.70
+sapodilla,83,0.44,1.10,19.96
+sapote,124,1.45,0.46,32.10
+soursop,66,1.00,0.30,16.84
+strawberries,32,0.67,0.30,7.68
+sugar-apples,94,2.06,0.29,23.64
+tamarinds,239,2.80,0.60,62.50
+watermelon,30,0.61,0.15,7.55
+maraschino cherries,165,0.22,0.21,41.97
+feijoa,61,0.71,0.42,15.21
+grapefruit juice,39,0.50,0.10,9.20
+durian,147,1.47,5.33,27.09
+prune puree,257,2.10,0.20,65.10
+candied fruit,322,0.34,0.07,82.74
+abiyuch,69,1.50,0.10,17.60
+rowal,111,2.30,2.00,23.90
+clementines,47,0.85,0.15,12.02
+guanabana nectar,59,0.11,0.17,14.93
+guava nectar,63,0.09,0.06,16.25
+mango nectar,51,0.11,0.06,13.12
+tamarind nectar,57,0.09,0.12,14.73
+usda cmdty peaches,61,0.56,0.15,15.65
+usda cmdty pears,51,0.34,0.19,12.91
+pomegranate juc,54,0.15,0.29,13.13
+juice,50,0.16,0.12,12.46
+nance,95,0.56,1.28,22.79
+naranjilla (lulo) pulp,25,0.44,0.22,5.90
+horned melon (kiwano),44,1.78,1.26,7.56
+orange pnappl juc blend,51,0.41,0.08,12.20
+fruit juc smoothie,63,0.42,0.00,15.00
+cranberry juc blend,45,0.27,0.12,10.91
+ruby red grpfrt juc blnd (grpfrt,44,0.50,0.10,10.53
+pork,585,10.06,60.42,0.32
+pork  frsh  loin  tenderloin   ln only  raw,109,20.95,2.17,0.00
+canadian bacon,110,20.31,2.62,1.34
+hormel,106,18.43,3.59,0.21
+hormel always tender,119,18.20,3.07,4.63
+hormel canadian style bacon,122,16.88,4.94,1.87
+prk,126,22.56,3.78,1.08
+pork loin,172,20.85,9.84,0.00
+alfalfa seeds,23,3.99,0.69,2.10
+amaranth leaves,23,2.46,0.33,4.02
+arrowhead,99,5.33,0.29,20.23
+artichokes,47,3.27,0.15,10.51
+asparagus,20,2.20,0.12,3.88
+balsam-pear (bitter gourd),30,5.30,0.69,3.29
+bamboo shoots,27,2.60,0.30,5.20
+beans,29,4.20,0.50,4.10
+lima bns,113,6.84,0.86,20.17
+mung bns,30,3.04,0.18,5.94
+beets,43,1.61,0.17,9.56
+beet greens,22,2.20,0.13,4.33
+beet grns,27,2.57,0.20,5.46
+broadbeans,72,5.60,0.60,11.70
+broccoli,34,2.82,0.37,6.64
+broccoli raab,22,3.17,0.49,2.85
+brussels sprouts,43,3.38,0.30,8.95
+burdock root,72,1.53,0.15,17.34
+butterbur,14,0.39,0.04,3.61
+cabbage,25,1.28,0.10,5.80
+cardoon,17,0.70,0.10,4.07
+carrots,41,0.93,0.24,9.58
+cassava,160,1.36,0.28,38.06
+cauliflower,25,1.92,0.28,4.97
+celeriac,42,1.50,0.30,9.20
+celery,16,0.69,0.17,2.97
+celtuce,18,0.85,0.30,3.65
+chard,19,1.80,0.20,3.74
+chayote,19,0.82,0.13,4.51
+chicory,17,0.90,0.10,4.00
+chicory greens,23,1.70,0.30,4.70
+chicory roots,72,1.40,0.20,17.51
+chives,30,3.27,0.73,4.35
+chrysanthemum,24,3.36,0.56,3.02
+collards,32,3.02,0.61,5.42
+coriander (cilantro) leaves,23,2.13,0.52,3.67
+corn,86,3.27,1.35,18.70
+corn w/red&grn peppers,75,2.33,0.55,18.17
+cornsalad,21,2.00,0.40,3.60
+cowpeas (blackeyes),90,2.95,0.35,18.83
+cowpeas,44,3.30,0.30,9.50
+yardlong bean,47,2.80,0.40,8.35
+cress,32,2.60,0.70,5.50
+cucumber,15,0.65,0.11,3.63
+dandelion greens,45,2.70,0.70,9.20
+dandelion grns,33,2.00,0.60,6.40
+eggplant,25,0.98,0.18,5.88
+edamame,109,11.22,4.73,7.61
+endive,17,1.25,0.20,3.35
+escarole,19,1.15,0.18,3.07
+garlic,149,6.36,0.50,33.06
+ginger root,80,1.82,0.75,17.77
+gourd,14,0.62,0.02,3.39
+drumstick leaves,64,9.40,1.40,8.28
+hyacinth-beans,46,2.10,0.20,9.19
+jerusalem-artichokes,73,2.00,0.01,17.44
+jew's ear,25,0.48,0.04,6.75
+pepeao,298,4.82,0.44,81.03
+jute,34,4.65,0.25,5.80
+kale,49,4.28,0.93,8.75
+kanpyo,258,8.58,0.56,65.03
+mushrooms,34,2.24,0.49,6.79
+kohlrabi,27,1.70,0.10,6.20
+lambsquarters,43,4.20,0.80,7.30
+leeks,61,1.50,0.30,14.15
+lentils,106,8.96,0.55,22.14
+lettuce,13,1.35,0.22,2.23
+lotus root,74,2.60,0.10,17.23
+mountain yam,67,1.34,0.10,16.30
+mustard greens,27,2.86,0.42,4.67
+mustard grns,26,2.56,0.47,4.51
+mustard spinach,22,2.20,0.30,3.90
+new zealand spinach,14,1.50,0.20,2.50
+okra,33,1.93,0.19,7.45
+onions,40,1.10,0.10,9.34
+onion rings,258,3.15,14.10,30.53
+parsnips,75,1.20,0.30,17.99
+peas,42,2.80,0.20,7.55
+peas&carrots,38,2.17,0.27,8.48
+peas&onions,51,3.28,0.38,8.57
+peppers,21,0.90,0.10,5.10
+pigeonpeas,136,7.20,1.64,23.88
+poi,112,0.38,0.14,27.23
+pokeberry shoots,23,2.60,0.40,3.70
+potatoes,77,2.05,0.09,17.49
+potato puffs,178,1.93,8.71,24.80
+potato flour,357,6.90,0.34,83.10
+potato salad,143,2.68,8.20,11.17
+pumpkin flowers,15,1.03,0.07,3.28
+pumpkin leaves,19,3.15,0.40,2.33
+pumpkin,26,1.00,0.10,6.50
+pumpkin pie mix,104,1.09,0.13,26.39
+purslane,20,2.03,0.36,3.39
+radishes,16,0.68,0.10,3.40
+rutabagas,37,1.08,0.16,8.62
+salsify,82,3.30,0.20,18.60
+sauerkraut,19,0.91,0.14,4.28
+seaweed,26,0.54,0.03,6.75
+sesbania flower,27,1.28,0.04,6.73
+soybeans,147,12.95,6.80,11.05
+spinach,23,2.86,0.39,3.63
+squash,19,1.01,0.27,3.88
+succotash,99,5.03,1.02,19.59
+swamp cabbage,19,2.60,0.20,3.14
+swamp cabbage (skunk cabbage),20,2.08,0.24,3.70
+sweet potato leaves,42,2.49,0.51,8.82
+sweet potato,86,1.57,0.05,20.12
+sweetpotato,91,1.65,0.20,21.12
+taro,112,1.50,0.20,26.46
+taro leaves,42,4.98,0.74,6.70
+taro shoots,11,0.92,0.09,2.32
+tomatoes,23,1.20,0.20,5.10
+tomato juc,17,0.85,0.29,3.53
+tomato products,82,4.32,0.47,18.91
+tomato powder,302,12.91,0.44,74.68
+tree fern,40,0.29,0.07,10.98
+turnips,28,0.90,0.10,6.43
+turnip greens,32,1.50,0.30,7.13
+turnip grns,20,1.14,0.23,4.36
+turnip grns&turnips,21,2.46,0.19,3.39
+vegetable juc cocktail,22,0.93,0.31,3.87
+vegetables,36,1.42,0.25,7.13
+vinespinach,19,1.80,0.30,3.40
+waterchestnuts,97,1.40,0.10,23.94
+watercress,11,2.30,0.10,1.29
+waxgourd,13,0.40,0.20,3.00
+winged bns,49,6.95,0.87,4.31
+winged bean leaves,74,5.85,1.10,14.10
+winged bean tuber,148,11.60,0.90,28.10
+yam,118,1.53,0.17,27.88
+yambean (jicama),38,0.72,0.09,8.82
+borage,21,1.80,0.70,3.06
+dock,22,2.00,0.70,3.20
+eppaw,150,4.60,1.80,31.68
+drumstick pods,37,2.10,0.20,8.53
+shallots,348,12.30,0.50,80.70
+carrot juice,40,0.95,0.15,9.28
+corn pudd,131,4.42,5.04,16.97
+spinach souffle,172,7.89,12.95,5.90
+potato pancakes,268,6.08,14.76,27.81
+radish seeds,43,3.81,2.53,3.60
+carrot,341,8.10,1.49,79.57
+arrowroot,65,4.24,0.20,13.39
+chrysanthemum leaves,24,3.36,0.56,3.01
+winged bean,37,5.31,0.66,3.21
+catsup,101,1.04,0.10,27.40
+pickles,12,0.50,0.30,2.41
+mushroom,22,3.09,0.34,3.26
+pimento,23,1.10,0.30,5.10
+pickle relish,91,1.50,0.46,23.35
+radicchio,23,1.43,0.25,4.48
+tomatillos,32,0.96,1.02,5.84
+fennel,31,1.24,0.20,7.30
+arugula,25,2.58,0.66,3.65
+hearts of palm,28,2.52,0.62,4.62
+nopales,16,1.32,0.09,3.33
+lemon grass (citronella),99,1.82,0.49,25.31
+grape leaves,93,5.60,2.12,17.31
+epazote,32,0.33,0.52,7.44
+fireweed,103,4.71,2.75,19.22
+malabar spinach,23,2.98,0.78,2.71
+fungi,284,9.25,0.73,73.01
+wasabi,109,4.80,0.63,23.54
+yautia (tannier),98,1.46,0.40,23.63
+fiddlehead ferns,34,4.55,0.40,5.54
+breadfruit seeds,191,7.40,5.59,29.24
+seeds,217,5.97,0.99,46.28
+chia seeds,486,16.54,30.74,42.12
+cottonseed flr,359,40.96,6.20,40.54
+cottonseed meal,367,49.10,4.77,38.43
+lotus seeds,332,15.41,1.97,64.47
+pumpkin&squash sd krnls,559,30.23,49.05,10.71
+safflower sd krnls,517,16.18,38.45,34.29
+safflower sd meal,342,35.62,2.39,48.73
+sesame seeds,573,17.73,49.67,23.45
+sesame sd krnls,567,16.96,48.00,26.04
+sesame flr,382,40.32,11.89,35.14
+sesame flour,333,50.14,1.75,35.51
+sesame meal,567,16.96,48.00,26.04
+sunflower sd krnls,584,20.78,51.46,20.00
+sunflower sd butter,617,17.28,55.20,23.32
+sunflower sd flr,326,48.06,1.61,35.83
+acorns,387,6.15,23.86,40.75
+acorn flour,501,7.49,30.17,54.65
+almonds,579,21.15,49.93,21.55
+almond paste,458,9.00,27.74,47.81
+beechnuts,576,6.20,50.00,33.50
+brazilnuts,659,14.32,67.10,11.74
+butternuts,612,24.90,56.98,12.05
+cashew nuts,574,15.31,46.35,32.69
+nuts,553,18.22,43.85,30.19
+cashew butter,587,17.56,49.41,27.57
+chestnuts,224,4.20,1.11,49.07
+coconut meat,354,3.33,33.49,15.23
+coconut crm,330,3.63,34.68,6.65
+coconut milk,230,2.29,23.84,5.54
+coconut h2o (liq from coconuts),19,0.72,0.20,3.71
+hazelnuts or filberts,628,14.95,60.75,16.70
+ginkgo nuts,182,4.32,1.68,37.60
+hickorynuts,657,12.72,64.37,18.25
+macadamia nuts,718,7.91,75.77,13.82
+mixed nuts,607,19.50,53.50,22.42
+formulated,622,13.82,57.70,23.68
+pecans,691,9.17,71.97,13.86
+pine nuts,629,11.57,60.98,19.30
+pistachio nuts,560,20.16,45.32,27.17
+walnuts,619,24.06,59.33,9.58
+cottonseed krnls,506,32.59,36.29,21.90
+pumpkin&squash seeds,446,18.55,19.40,53.75
+sesame butter,595,17.00,53.76,21.19
+watermelon sd krnls,557,28.33,47.37,15.31
+sisymbrium sp. seeds,318,12.14,4.60,58.26
+almond butter,614,20.96,55.50,18.82
+beef,117,23.07,2.69,0.00
+bf,265,26.58,16.76,0.00
+alcoholic bev,43,0.46,0.00,3.55
+beverages,38,0.42,1.04,6.59
+bev,4,0.00,0.00,1.03
+beverag,368,27.87,11.62,50.00
+beverage,0,0.00,0.00,0.00
+carbonated bev,51,0.00,0.00,13.30
+beve,21,0.00,0.00,5.00
+cocoa mix,400,3.00,15.00,75.00
+cranberry juc cocktail,54,0.00,0.10,13.52
+alcoholic beverages,58,0.90,0.00,0.27
+lemonade,14,0.00,0.04,3.59
+limeade,52,0.00,0.00,13.79
+malt bev,37,0.21,0.12,8.05
+bevera,86,3.67,3.21,10.67
+shake,148,3.37,6.52,19.59
+strawberry-flavor bev mix,389,0.10,0.20,99.10
+water,0,0.00,0.00,0.00
+whiskey sour mix,84,0.10,0.10,21.40
+alcoholic bev distilled,295,0.00,0.00,0.00
+bever,4,0.00,0.00,1.10
+anchovy,131,20.35,4.84,0.00
+bass,114,18.86,3.69,0.00
+bluefish,124,20.04,4.24,0.00
+burbot,90,19.31,0.81,0.00
+butterfish,146,17.28,8.02,0.00
+carp,127,17.83,5.60,0.00
+catfish,95,16.38,2.82,0.00
+caviar,264,24.60,17.90,4.00
+cisco,98,18.99,1.91,0.00
+cod,82,17.81,0.67,0.00
+fish,69,15.27,0.41,0.00
+croaker,104,17.78,3.17,0.00
+cusk,87,18.99,0.69,0.00
+drum,119,17.54,4.93,0.00
+eel,184,18.44,11.66,0.00
+flatfish (flounder&sole sp),70,12.41,1.93,0.00
+gefiltefish,84,9.07,1.73,7.41
+grouper,92,19.38,1.02,0.00
+haddock,74,16.32,0.45,0.00
+halibut,91,18.56,1.33,0.00
+herring,158,17.96,9.04,0.00
+ling,87,18.99,0.64,0.00
+lingcod,85,17.66,1.06,0.00
+mackerel,205,18.60,13.89,0.00
+milkfish,148,20.53,6.73,0.00
+monkfish,76,14.48,1.52,0.00
+mullet,117,19.35,3.79,0.00
+ocean perch,79,15.31,1.54,0.00
+pout,79,16.64,0.91,0.00
+perch,91,19.39,0.92,0.00
+pike,88,19.26,0.69,0.00
+pollock,92,19.44,0.98,0.00
+pompano,164,18.48,9.47,0.00
+rockfish,90,18.36,1.34,0.00
+roe,143,22.32,6.42,1.50
+roughy,76,16.41,0.70,0.00
+sablefish,195,13.41,15.30,0.00
+salmon,142,19.84,6.34,0.00
+sardine,208,24.62,11.45,0.00
+scup,105,18.88,2.73,0.00
+sea bass,97,18.43,2.00,0.00
+seatrout,104,16.74,3.61,0.00
+shad,197,16.93,13.77,0.00
+shark,130,20.98,4.51,0.00
+sheepshead,108,20.21,2.41,0.00
+smelt,97,17.63,2.42,0.00
+snapper,100,20.51,1.34,0.00
+spot,123,18.51,4.90,0.00
+sturgeon,105,16.14,4.04,0.00
+sucker,92,16.76,2.32,0.00
+sunfish,89,19.40,0.70,0.00
+surimi,99,15.18,0.90,6.85
+swordfish,144,19.66,6.65,0.00
+tilefish,96,17.50,2.31,0.00
+trout,148,20.77,6.61,0.00
+tuna,144,23.33,4.90,0.00
+tuna salad,187,16.04,9.26,9.41
+turbot,95,16.05,2.95,0.00
+whitefish,134,19.09,5.86,0.00
+whiting,90,18.31,1.31,0.00
+wolffish,96,17.50,2.39,0.00
+yellowtail,146,23.14,5.24,0.00
+crab,84,18.29,0.60,0.00
+crustaceans,155,20.21,7.52,0.48
+crayfish,77,15.97,0.95,0.00
+lobster,77,16.52,0.75,0.00
+shrimp,242,21.39,12.28,11.47
+spiny lobster,112,20.60,1.51,2.43
+abalone,105,17.10,0.76,6.01
+clam,86,14.67,0.96,3.57
+cuttlefish,79,16.24,0.70,0.82
+mussel,86,11.90,2.24,3.69
+octopus,82,14.91,1.04,2.20
+oyster,51,5.71,1.71,2.72
+scallop,69,12.06,0.49,3.18
+squid,92,15.58,1.38,3.08
+whelk,137,23.84,0.40,7.76
+conch,130,26.30,1.20,1.70
+yokan,260,3.29,0.12,60.72
+broadbeans (fava beans),341,26.12,1.53,58.29
+broadbeans (fava bns),110,7.60,0.40,19.65
+carob flour,222,4.62,0.65,88.88
+chickpeas (garbanzo bns,378,20.47,6.04,62.95
+chickpeas ,164,8.86,2.59,27.42
+chili with beans,103,6.12,3.76,13.24
+hyacinth bns,344,23.90,1.69,60.74
+lupins,371,36.17,9.74,40.37
+mothbeans,343,22.94,1.61,61.52
+noodles,351,0.16,0.06,86.09
+mungo bns,341,25.21,1.64,58.99
+peanuts,567,25.80,49.24,16.13
+peanut butter,589,24.06,49.94,21.57
+peanut flour,327,52.20,0.55,34.70
+pigeon peas (red gm),343,21.70,1.49,62.78
+refried bns,90,4.98,2.01,13.55
+meat extender,311,41.71,2.97,34.71
+miso,198,12.79,6.01,25.37
+natto,211,19.40,11.00,12.68
+tempeh,192,20.29,10.80,7.64
+soy flour,434,37.81,20.65,31.92
+soy flr,439,38.09,21.86,30.38
+soy meal,337,49.20,2.39,35.89
+soymilk,54,3.27,1.75,6.28
+soy prot conc,328,63.63,0.46,25.41
+soy protein isolate,335,88.32,3.39,0.00
+soy sau made from soy&wheat (shoyu),53,8.14,0.57,4.93
+soy sau made from soy (tamari),60,10.51,0.10,5.57
+soy sau made from hydrolyzed veg prot,60,7.00,0.51,7.84
+tofu,78,9.04,4.17,2.85
+okara,76,3.52,1.73,12.23
+yardlong bns,347,24.33,1.31,61.91
+hummus,177,4.86,8.59,20.12
+falafel,333,13.31,17.80,31.84
+veggie burgers or soyburgers  unprep,177,15.70,6.30,14.27
+peanut sprd,650,24.80,54.89,14.23
+chickpea flour (besan),387,22.39,6.69,57.82
+mori-nu,55,4.80,2.70,2.90
+frijoles rojos volteados (refried bns,144,5.00,6.93,15.47
+campbell's brn sugar&bacon flav bkd bns,123,3.85,1.92,23.08
+campbell's pork & bns,108,4.62,1.15,19.23
+vitasoy usa,54,8.30,1.70,1.30
+vitasoy usa  organic nasoya silken tofu,47,4.80,2.50,1.40
+soymilk (all flavors),33,2.86,1.61,1.74
+silk pln,41,2.88,1.65,3.29
+silk vanilla,41,2.47,1.44,4.12
+silk choc,58,2.06,1.44,9.47
+silk lt pln,29,2.47,0.82,3.29
+silk lt vanilla,33,2.47,0.82,4.12
+silk lt choc,49,2.06,0.62,9.05
+silk plus omega-3 dha,45,2.88,2.06,3.29
+silk plus for bone health,41,2.47,1.44,4.53
+silk plus fiber,41,2.47,1.44,5.76
+silk unswtnd,33,2.88,1.65,1.65
+silk very vanilla,53,2.47,1.65,7.82
+silk nog,74,2.46,1.64,12.30
+silk chai,53,2.47,1.44,7.82
+silk mocha,58,2.06,1.44,9.05
+silk coffee,62,2.06,1.44,10.29
+silk vanilla soy yogurt (family size),79,2.64,1.76,13.66
+silk vanilla soy yogurt (single serving size),88,2.94,1.76,14.71
+silk pln soy yogurt,66,2.64,1.76,9.69
+silk strawberry soy yogurt,94,2.35,1.18,18.24
+silk raspberry soy yogurt,88,2.35,1.18,17.65
+silk peach soy yogurt,94,2.35,1.18,18.82
+silk black cherry soy yogurt,88,2.35,1.18,17.06
+silk blueberry soy yogurt,88,2.35,1.18,17.06
+silk key lime soy yogurt,88,2.35,1.18,17.65
+silk banana-strawberry soy yogurt,88,2.35,1.18,17.06
+silk original creamer,100,0.00,6.67,6.67
+silk french vanilla creamer,133,0.00,6.67,20.00
+silk hazelnut creamer,133,0.00,6.67,20.00
+vitasoy usa organic nasoya,70,8.76,3.50,0.74
+vitasoy usa nasoya,43,8.21,1.10,0.00
+vitasoy usa organic nasoya sprouted,115,13.24,5.90,2.16
+vitasoy usa azumaya,88,10.07,4.60,1.53
+house foods premium soft tofu,59,6.38,2.71,2.19
+house foods premium firm tofu,85,10.92,4.19,0.97
+chickpeas,164,8.86,2.59,27.42
+peanut butter w/ omega-3,608,24.47,54.17,17.00
+soy prot isolate,321,88.32,0.53,2.59
+soy sau,90,8.19,0.31,14.44
+loma linda little links,221,19.40,13.50,5.50
+loma linda lofat big franks,154,23.10,4.70,4.90
+loma linda tender rounds w/ gravy,145,16.30,5.60,7.40
+loma linda swiss stake w/ gravy,138,10.20,6.20,10.40
+loma linda vege-burger,114,22.20,1.20,3.70
+loma linda redi-burger,146,21.90,2.80,8.20
+loma linda tender bits,135,15.10,4.60,8.30
+loma linda linketts,209,21.30,11.80,4.40
+worthington chili,126,10.40,4.50,10.90
+worthington choplets,103,19.40,1.00,4.10
+worthington diced chik,80,14.70,0.70,3.70
+worthington frichik original,160,13.40,10.30,3.40
+worthington lofat fri chik,102,14.30,2.70,4.90
+worthington lofat veja-links,123,15.80,4.80,4.30
+worthington multigrain cutlets,117,23.29,1.50,7.30
+worthington prime stakes,135,10.20,7.20,7.50
+worthington saucettes,219,15.00,15.20,5.60
+worthington super links,219,14.50,15.50,5.50
+worthington veg skallops,109,19.90,1.20,4.60
+worthington veg steaks,113,20.70,1.20,5.10
+worthington vegetarian burger,124,18.60,2.90,6.20
+worthington veja-links,155,14.60,8.90,4.10
+worthington chic-ketts,200,23.60,9.70,5.10
+worthington meatless chick roll,154,16.10,8.00,4.30
+worthington meatless corned bf roll,245,18.60,14.50,9.90
+worthington dinner rst,213,16.00,13.50,6.90
+worthington fripats,209,23.70,9.10,8.00
+worthington prosage links,143,20.20,4.70,5.00
+worthington prosage roll,261,19.60,17.60,6.00
+worthington smoked turkey roll,251,18.50,16.10,7.90
+worthington stakelets,211,19.70,10.40,9.60
+worthington stripples,346,12.40,26.60,14.30
+worthington wham (roll),196,17.80,11.30,5.70
+morningstar farms brkfst pattie w/ organic soy,220,23.70,8.30,12.60
+morningstar farms brkfst bacon strips,346,12.40,26.60,14.30
+morningstar farms brkfst sausage links,159,19.20,6.10,6.80
+morningstar farms grillers original,213,23.90,9.30,8.50
+morningstar farms grillers prime,238,24.00,13.20,5.90
+morningstar farms asian veggie patties,158,11.40,6.20,18.20
+morningstar farms mushroom lover's burger,168,14.30,8.20,9.20
+morningstar farms tomato & basil pizza burger,161,15.50,8.60,14.00
+morningstar farms buffalo wings,232,14.10,11.00,22.60
+morningstar farms chik'n nuggets,221,14.40,10.00,21.80
+morningstar farms chik patties,197,11.80,7.00,22.90
+morningstar farms italian herb chik'n pattie,236,13.60,7.00,31.10
+morningstar farms corn dog,208,11.20,3.50,36.00
+morningstar farms corn dog mini,219,13.20,4.70,32.60
+morningstar farms sausage style recipe crumbles,159,20.20,4.60,9.90
+gardenburger black bean chipotle burger,133,6.50,3.90,22.00
+gardenburger original,155,7.20,4.60,22.10
+gardenburger flame grilled burger,122,15.20,4.40,6.80
+gardenburger savory portabella veggie burger,138,5.90,3.30,22.10
+gardenburger sun-dried tomato basil burger,137,5.50,3.60,23.70
+gardenburger veggie medley burger,121,4.10,3.60,24.00
+morningstar farms brkfst sausage patties mpl flav,222,26.30,7.20,13.60
+morningstar farms chik'n grill veggie patties,118,12.80,4.80,10.20
+morningstar farms bbq riblets,150,11.40,2.30,24.60
+worthington leanies,251,19.50,16.50,6.10
+morningstar farms california turk'y burger,155,14.90,7.70,12.60
+morningstar farms hot&spicy veggie sausge patties,185,21.80,7.40,8.50
+morningstar farms lasagna w/ veggie sausage,96,7.10,2.30,14.40
+morningstar farms grillers qrtr pnd veggie brgr,219,22.80,10.50,8.90
+morningstar farms sesame chik'n entree,116,5.30,3.50,17.30
+morningstar farms grillers chik'n veggie patties,118,12.80,4.80,10.20
+morningstar farms meal starters veggie meatballs,158,17.70,5.80,9.90
+morningstar farms brkfst biscuit sausage,257,9.30,8.10,37.50
+morningstar farms mediterranean chickpea,200,15.50,6.50,19.80
+morningstar farms buffalo chik patties,255,12.10,12.80,25.20
+morningstar farms chik patties original,197,11.20,9.10,20.50
+morningstar farms brkfst pattie,195,23.70,8.30,12.60
+morningstar farms rstd garlic & quinoa burger,192,10.70,12.10,17.80
+morningstar farms parmesan garlic wings,227,14.20,8.60,24.10
+mornngstr frms brkfst sndwch ssge egg&chs eng muff,205,14.30,9.40,18.70
+mornngstr frms brkfst sndwch scrmbl&chs eng muff,149,10.40,4.80,18.90
+morningstar farms chipotle black bean crumbles,122,14.40,4.10,10.20
+morningstar farms garden veggie nuggets,197,9.60,12.20,16.90
+morningstar farms spicy blk bean enchilada entree,123,5.80,5.20,15.90
+morningstar farms spicy indian veggie burger,189,9.20,11.60,17.00
+morningstar farms tuscan grns & bns,112,5.90,6.30,11.70
+veal,134,21.70,4.63,1.40
+lamb,267,16.88,21.59,0.00
+game meat,114,22.38,2.03,0.00
+bison,179,25.45,8.62,0.00
+goat,109,20.60,2.31,0.00
+game meat bison,223,18.67,15.93,0.00
+bagel,264,10.56,1.32,52.38
+bagels,287,11.14,1.43,57.39
+biscuits,338,6.20,11.03,53.87
+biscuit,307,6.66,10.58,46.32
+bread,326,4.30,10.50,54.60
+bread crumbs,395,13.35,5.30,71.98
+bread sticks,412,12.00,9.50,68.40
+bread stuffing,386,11.00,3.40,76.20
+cake,258,5.90,0.80,57.80
+coffeecake,339,7.00,15.20,44.30
+cheesecake commly prep,321,5.50,22.50,25.50
+cheesecake prep from mix,274,5.50,12.70,35.50
+cookies,405,4.80,16.30,63.90
+puff pastry,558,7.40,38.50,45.70
+crackers,489,10.93,22.74,59.42
+cracker meal,383,9.30,1.70,80.90
+cream puff shell,360,9.00,25.90,22.80
+croissants,406,8.20,21.00,45.80
+croutons,407,11.90,6.60,73.50
+danish pastry,403,7.00,22.40,44.60
+doughnuts,434,5.31,24.93,47.06
+english muffin,227,8.87,1.69,44.17
+english,270,10.32,2.02,52.65
+english muffins,235,9.10,1.80,46.30
+french toast,213,7.40,6.10,32.10
+hush puppies,337,7.70,13.50,46.00
+ice crm cones,417,8.10,6.90,79.00
+muffins,296,6.90,11.40,41.40
+pancakes pln,233,5.23,6.83,37.75
+pancakes,368,9.77,3.10,73.65
+pie,237,1.90,11.00,34.00
+pie crust,518,6.90,31.40,52.10
+phyllo dough,299,7.10,6.00,52.60
+popovers,371,10.40,4.30,71.00
+rolls,310,10.86,6.47,52.04
+strudel,274,3.30,11.20,41.10
+sweet rolls,360,7.10,18.30,43.70
+taco shells,476,6.41,21.79,63.49
+toaster pastries,370,4.06,7.98,72.64
+tortillas,218,5.70,2.85,44.64
+waffles,285,6.47,9.70,42.98
+wonton wrappers (incl egg roll wrappers),291,9.80,1.50,57.90
+leavening agents,53,0.00,0.00,27.70
+breakfast tart,372,3.99,5.99,76.80
+tstr pstrs,366,4.70,5.90,73.70
+kellogg,245,5.30,8.00,38.60
+kellogg's,229,6.30,3.50,44.90
+kellogg's eggo lowfat blueberry nutri-grain waffles,208,5.95,2.83,42.71
+archway home style cookies,442,5.54,20.92,67.20
+artificial blueberry muffin mix,407,4.70,8.70,77.45
+kraft,381,12.60,4.10,73.10
+george weston baker,390,13.30,5.10,72.70
+keebler,465,7.10,16.60,71.80
+krusteaz almond poppyseed muffin mix,418,5.60,10.30,75.60
+mckee baking,548,8.00,32.80,55.20
+martha white foods,407,4.42,6.16,83.58
+mission foods,287,8.70,6.00,49.60
+nabisco,424,6.99,10.00,76.20
+pillsbury,236,6.40,2.79,47.07
+pillsbury grands,293,6.16,11.34,42.41
+pillsbury golden layer bttrmlk biscuits,307,5.88,13.24,41.18
+kraft foods,377,6.10,3.70,79.80
+george weston bakeries,232,8.00,1.80,46.00
+heinz,241,4.40,6.90,40.30
+interstate brands corp,273,8.07,4.15,50.84
+general mills,413,3.80,8.10,81.30
+waffle,309,7.42,9.49,48.39
+muffin,255,4.23,4.22,50.05
+tostada shells,474,6.15,23.38,64.43
+keikitos (muffins),467,6.81,25.24,53.16
+pan dulce,445,8.81,16.11,66.28
+pastry,379,5.48,18.50,47.76
+garlic bread,350,8.36,16.61,41.72
+cinnamon buns,452,4.45,26.61,48.60
+cream puff,334,4.41,18.52,37.43
+focaccia,249,8.77,7.89,35.82
+kashi,398,8.70,10.40,72.20
+austin,495,7.90,24.50,61.40
+barbara dee,515,3.90,26.00,67.10
+bear naked,423,6.60,16.90,66.90
+schiff,422,16.80,14.29,56.46
+candies,525,5.71,28.57,61.21
+beef jerky,410,33.20,25.60,11.00
+snacks,538,6.17,33.36,56.90
+corn-based,523,7.00,32.70,56.20
+cornnuts,446,8.50,15.64,71.86
+crisped rice bar,404,5.10,13.50,73.00
+fruit leather,359,1.00,2.68,82.82
+granola bars,471,10.10,19.80,64.40
+fruit syrup,341,0.00,0.00,85.13
+topping,609,2.94,44.10,50.07
+syrup,261,0.00,0.02,65.10
+oriental mix,506,17.31,25.58,51.62
+popcorn,387,12.94,4.54,77.78
+pork skins,544,61.30,31.30,0.00
+potato chips,487,6.51,31.06,55.92
+pretzels,384,10.04,2.93,80.39
+rice cakes,380,9.00,3.50,80.10
+tortilla chips,472,7.10,20.68,67.78
+trail mix,462,13.80,29.40,44.90
+baking choc,472,12.10,47.70,36.20
+baking chocolate,642,14.32,52.31,28.42
+ice creams,180,4.78,4.83,29.46
+desserts,145,4.53,4.03,22.78
+sherbet,144,1.10,2.00,30.40
+syrups,291,0.00,0.09,72.43
+puddings,105,2.76,1.70,19.74
+chocolate-flavored hazelnut sprd,541,5.41,29.73,62.16
+toppings,254,0.20,0.10,66.30
+bak choc,517,4.44,26.15,65.96
+chewing gum,360,0.00,0.30,96.70
+cocoa,228,19.60,13.70,57.90
+egg custards,410,6.90,6.40,82.80
+gelatin dssrt,381,7.80,0.00,90.50
+gelatins,335,85.60,0.10,0.00
+flan,348,0.00,0.00,91.60
+rennin,85,3.24,2.06,13.47
+frozen novelties,24,0.50,0.10,6.20
+frostings,397,1.10,17.60,63.20
+frozen yogurts,159,4.00,5.60,24.20
+fruit butters,173,0.39,0.30,42.47
+honey,304,0.30,0.00,82.40
+jams and preserves,278,0.37,0.07,68.86
+jellies,266,0.15,0.02,69.95
+marmalade,246,0.30,0.00,66.30
+molasses,290,0.00,0.10,74.73
+pectin,325,0.30,0.30,90.40
+pie fillings,100,0.10,0.10,26.10
+pudding,109,0.65,1.12,24.20
+sugars,380,0.12,0.00,98.09
+sweeteners,365,2.17,0.00,89.08
+banana chips,519,2.30,33.60,58.40
+frosting,359,1.42,7.17,72.18
+sesame stks,541,10.90,36.70,46.50
+corn cakes,387,8.10,2.40,83.40
+cheese puffs & twists,432,8.50,12.10,72.35
+taro chips,498,2.30,24.90,68.10
+jams&preserves,242,0.70,0.20,64.40
+froz novelties,21,0.00,0.00,5.14
+frz nvl,124,4.31,1.88,30.07
+frozen novl,242,5.20,13.00,25.98
+chocolate,546,4.88,31.28,61.17
+sugar,399,0.00,0.00,99.80
+sweetener,310,0.09,0.45,76.37
+jams,212,0.00,0.00,52.93
+amaranth grain,371,13.56,7.02,65.25
+arrowroot flour,357,0.30,0.10,88.15
+barley,354,12.48,2.30,73.48
+buckwheat,343,13.25,3.40,71.50
+buckwheat groats,346,11.73,2.71,74.95
+buckwheat flr,335,12.62,3.10,70.59
+bulgur,342,12.29,1.33,75.87
+corn grain,365,9.42,4.74,74.26
+corn bran,224,8.36,0.92,85.64
+corn flr,361,6.93,3.86,76.85
+cornmeal,362,8.12,3.59,76.89
+cornstarch,381,0.26,0.05,91.27
+couscous,376,12.76,0.64,77.43
+hominy,72,1.48,0.88,14.26
+millet,378,11.02,4.22,72.85
+oat bran,246,17.30,7.03,66.22
+quinoa,368,14.12,6.07,64.16
+rice,367,7.54,3.20,76.25
+oats,389,16.89,6.90,66.27
+rice bran,316,13.35,20.85,49.69
+rice flr,366,5.95,1.42,80.13
+rye grain,338,10.34,1.63,75.86
+rye flour,325,15.91,2.22,68.63
+semolina,360,12.68,1.05,72.83
+sorghum grain,329,10.62,3.46,72.09
+tapioca,358,0.19,0.02,88.69
+triticale,336,13.05,2.09,72.13
+triticale flr,338,13.18,1.81,73.14
+wheat,329,15.40,1.92,68.03
+wheat bran,216,15.55,4.25,64.51
+wheat germ,360,23.15,9.72,51.80
+wheat flour,340,13.21,2.50,71.97
+wheat flr,364,10.33,0.98,76.31
+wild rice,357,14.73,1.08,74.90
+rice flour,363,7.23,2.78,76.48
+pasta,357,7.46,2.08,79.26
+macaroni,367,13.14,1.04,74.88
+spaghetti,372,13.35,1.57,74.81
+wheat flours,361,11.98,1.66,72.53
+barley flour or meal,345,10.50,1.60,74.52
+barley malt flr,361,10.28,1.84,78.30
+oat flr,404,14.66,9.12,65.70
+rice noodles,364,5.95,0.56,80.18
+spelt,338,14.57,2.43,70.19
+teff,367,13.30,2.38,73.13
+millet flr,382,10.75,4.25,75.12
+sorghum flr,359,8.43,3.34,76.64
+fast foods  biscuit  w/ egg,274,8.53,16.23,23.46
+fast foods,305,11.33,20.73,19.06
+breakfast items,312,11.13,20.77,21.05
+fst foods,312,3.43,14.73,41.44
+side dishes,114,1.53,6.03,13.53
+burger king,168,3.19,8.74,19.03
+fast fd,370,7.08,18.92,42.82
+chick-fil-a,228,21.40,11.20,10.39
+school lunch,243,13.89,8.81,27.10
+subway,155,10.91,2.37,22.54
+pizza,268,10.36,12.28,29.02
+mcdonald's,264,12.92,10.09,30.28
+wendy's,213,12.63,10.60,16.82
+taco bell,229,8.86,12.70,19.85
+pizza hut 12" chs pizza,271,11.93,10.89,31.22
+pizza hut 12" pepperoni pizza,280,12.86,11.38,31.55
+pizza hut 12" super supreme pizza,243,10.90,10.72,25.62
+domino's 14" chs pizza,257,10.80,8.97,33.24
+domino's 14" pepperoni pizza,273,11.25,11.18,31.86
+domino's 14" extravaganzza fst pizza,244,10.33,11.10,25.72
+papa john's 14" chs pizza,260,11.53,9.25,32.74
+papa john's 14" pepperoni pizza,275,11.97,11.86,30.04
+papa john's 14" the works pizza,240,10.27,10.21,26.69
+little caesars 14" original rnd chs pizza,265,13.39,9.54,31.50
+little caesars 14" original rnd pepperoni pizza,273,13.59,10.50,31.01
+little caesars 14" original rnd meat & veg pizza,243,12.12,11.35,23.10
+little caesars 14" chs pizza,263,12.63,10.22,30.10
+little caesars 14" pepperoni pizza,265,12.93,10.81,29.03
+pizza hut 14" chs pizza,275,11.98,10.42,33.42
+pizza hut 14" pepperoni pizza,291,12.23,12.63,32.11
+pizza hut 14" super supreme pizza,248,11.34,10.95,26.01
+mcdonald's bacon ranch salad w/ crispy chick,122,8.82,6.30,6.08
+ft fds,226,11.34,12.37,17.33
+fast fds,253,15.50,15.63,12.62
+popeyes,401,6.00,23.71,40.95
+kfc,358,7.50,17.05,43.55
+grilled chick,220,17.19,8.05,19.87
+crispy chick,257,15.38,11.76,22.61
+yogurt parfait,84,3.36,1.01,15.86
+digiorno pizza,279,13.48,11.68,29.86
+domino's 14" sausage pizza,319,12.77,18.52,25.30
+pizza hut 14" sausage pizza,323,13.95,16.90,28.70
+kashi pizza,224,12.50,8.40,24.50
+wend'ys,278,11.72,13.93,26.36
+morningstar farms pizza,235,10.60,6.90,36.90
+pizza hut,343,12.20,12.88,44.48
+arby's,242,15.17,10.30,22.21
+worthington foods,176,17.80,5.50,13.70
+morningstar farms grillers brgr styl recipe crmbl,135,18.50,4.30,8.30
+morningstar farms brkfst sausage patties,210,25.80,7.90,8.80
+loma linda big franks,218,21.50,12.10,5.80
+macaroni & chs,82,3.38,2.46,11.52
+spaghetti w/ meat sau,90,5.05,1.01,15.24
+beef macaroni w/ tomato sau,113,5.89,1.96,17.99
+pasta w/sliced franks in tomato sau,90,4.37,2.38,12.70
+turkey pot pie,176,6.50,8.80,17.70
+beef pot pie,220,7.25,11.39,22.05
+hot pockets,235,8.90,8.60,30.40
+hot pockets ham 'n chs stuffed sndwch,241,9.16,9.14,30.55
+ravioli,77,2.48,1.45,13.64
+tortellini,307,13.50,7.23,47.00
+chili con carne w/bns,107,5.80,3.47,13.10
+beef stew,99,4.41,5.53,7.85
+chicken pot pie,204,5.11,11.85,19.21
+lasagna,130,6.54,5.33,13.84
+chili,118,7.53,7.10,6.10
+pasta w/ tomato sau,70,2.22,0.44,14.22
+lasagna w/ meat & sau,101,6.81,2.23,13.50
+burrito,239,7.26,9.61,30.84
+spaghettios,95,4.37,2.78,12.70
+supper bakes meal,198,7.06,4.71,31.76
+supper bakes meal kits,147,4.80,3.20,24.80
+supper meal kits,181,5.91,1.18,36.64
+swanson,71,4.70,4.03,4.03
+egg rolls,222,9.94,7.17,29.50
+tky,128,6.97,3.89,16.32
+rice bowl w/ chick,126,5.65,1.56,22.46
+macaroni & chs dinner w/ dry sau mix,379,13.86,4.82,70.12
+mac & chs,190,4.89,8.28,23.93
+lean pockets,230,10.28,6.53,32.52
+chili w/ bns,100,5.85,3.68,10.88
+potato salad w/ egg,157,1.96,9.40,16.18
+pulled pork in barbecue sau,168,13.19,4.42,18.74
+corn dogs,250,8.57,12.02,26.96
+lasagna w/ meat sau,135,7.28,4.92,15.36
+chicken tenders,240,14.62,13.58,14.86
+kashi black bean mango,115,3.00,3.00,18.00
+kashi mayan harvest bake,121,3.00,3.20,21.00
+kashi pesto pasta primavera,101,3.80,3.80,13.00
+kashi spicy black bean enchilada,103,3.00,2.80,17.70
+kashi spinach artichoke pasta,103,5.00,3.40,15.10
+kashi three chs penne,126,5.70,4.00,16.80
+rice & vermicelli mix,358,10.64,1.32,75.80
+beef comp,203,28.73,9.16,0.00
+formulate bar,396,24.29,13.12,47.24
+form bar,422,18.49,13.18,57.27
+formulat bar,343,22.35,8.99,52.47
+formbar,415,25.00,12.50,50.50
+formul bar,386,21.91,10.79,50.30
+formulated bar,363,14.15,3.11,69.63
+popcor,535,8.38,30.22,57.26
+snac,487,9.14,22.86,61.14
+snack,423,5.71,11.43,74.29
+rice crackers,416,10.00,5.00,82.64
+campbell's chnky,49,2.86,1.02,6.94
+hlthy rqst mcrwvbl bwl,53,2.86,1.22,7.35
+campbell's homestyle microwaveable bowls,41,2.45,1.02,5.31
+campbell's homestyle harvest tomato w/ basil soup,45,0.82,0.41,9.39
+campbell's homestyle hr chick w/ whl grain pasta soup,40,3.80,0.82,4.28
+dip,143,3.14,9.51,11.14
+famous amos,503,4.50,24.10,67.70
+girl scouts,520,5.10,27.10,64.80
+jackson's,469,5.70,18.10,71.70
+mother's,487,3.80,25.40,68.30
+murray,458,3.20,27.60,68.50
+sunshine,502,8.70,24.70,62.60
+cookie,489,3.50,25.80,64.10
+brd,298,5.40,8.02,51.15
+andrea's,257,5.65,8.20,40.24
+crunchmaster,456,10.91,15.92,67.18
+glutino,474,2.19,17.89,76.03
+mary's gone crackers,446,12.06,15.63,64.29
+pepperidge farm,457,11.71,16.11,66.20
+rudi's,320,3.13,10.70,52.83
+sage valley,499,3.13,22.15,71.88
+schar,239,3.34,2.65,50.47
+udi's,310,7.99,6.40,55.10
+van's,215,3.31,4.55,40.32
+v8 veg juc,20,0.41,0.00,4.53
+healthy request tomato juc,21,0.82,0.00,4.53
+campbell's v8 100% veg juc,21,0.82,0.00,4.12
+v8 60% veg juc,14,0.41,0.00,2.88
+sweet potatoes,182,2.16,8.92,35.58
+sweet potato puffs,161,1.36,3.58,30.72
+potato\,81,2.04,0.07,17.98
+vegetable smoothie,28,0.80,0.07,7.00
+vegetable juc,31,0.49,0.04,8.13
+taquitos,284,9.21,12.54,33.63
+pasta mix,349,11.60,1.88,71.51
+yellow rice w/ seasoning,343,7.02,1.75,74.68
+pizza rolls,328,8.73,9.98,50.72
+potsticker or wonton,136,8.28,5.52,13.28
+macaroni or noodles w/ chs,297,13.10,4.03,52.06
+turnover,235,10.24,9.45,27.29
+spanish rice mix,363,10.62,1.62,76.45
+kashi three chs ravioli w/ mediterranean tomato sau,131,5.50,4.20,19.70
+kashi mushroom & asparagus risotto,116,4.30,3.70,17.00
+rice mix,362,8.77,3.51,73.88
+dumpling,195,5.26,6.14,29.64
+kashi italian veg medley pasta,106,4.70,2.60,16.30
+salisbury steak w/ gravy,149,6.98,10.47,6.78
+hungry man,136,7.96,8.53,6.96
+banquet,155,6.89,11.10,6.96
+jimmy dean,328,9.29,22.90,21.07
+agutuk,353,3.40,31.80,13.40
+ascidians (tunughnak) (alaska native),20,3.80,0.50,0.00
+bear,155,20.10,8.30,0.00
+whale,327,69.86,5.34,0.00
+caribou,786,6.70,84.40,0.00
+stew/soup,41,3.80,0.70,4.80
+chiton,83,17.10,1.60,0.00
+cloudberries,51,2.40,0.80,8.60
+cockles,79,13.50,0.70,4.70
+cranberry,55,0.40,0.50,12.20
+huckleberries,37,0.40,0.10,8.70
+stew,55,6.60,0.50,6.00
+moose,103,22.30,1.50,0.00
+mashu roots,135,5.80,2.40,22.60
+mouse nuts,81,3.90,0.10,16.10
+octopus (alaska native),56,12.30,0.80,0.00
+seal,351,82.60,2.30,0.00
+oopah (tunicate),67,11.70,2.20,0.00
+owl,136,22.70,5.00,0.00
+sea cucumber,56,13.00,0.40,0.00
+sourdock,42,2.30,0.70,6.50
+squirrel,111,19.30,3.80,0.00
+tea,1,0.00,0.00,0.20
+walrus,251,57.00,2.60,0.00
+deer (venison),116,21.50,2.66,0.00
+willow,592,2.60,61.00,8.10
+mush,54,0.66,0.49,11.74
+melon,21,0.84,0.20,4.06
+chilchen (red berry beverage) (navajo),44,0.81,0.63,8.68
+mutton,234,33.43,11.09,0.08
+frybread,330,6.69,12.22,48.26
+tortilla,237,7.28,0.95,49.94
+tamales (navajo),153,6.28,6.12,18.12
+salmonberries,47,0.85,0.33,10.05
+elk,143,29.45,2.80,0.00
+buffalo,97,21.44,1.30,0.00
+chokecherries,156,2.89,0.98,33.88
+steelhead trout,382,77.27,8.06,0.00
+acorn stew (apache),95,6.81,3.47,9.22
+corned bf & potatoes in tortilla (apache),224,7.91,8.31,29.35
+tennis bread,258,9.00,1.05,53.26
+agave,68,0.52,0.15,16.23
+cattail,25,1.18,0.00,5.14
+prairie turnips,156,2.62,0.36,35.67
+rose hips,162,1.60,0.34,38.22
+stinging nettles,42,2.71,0.11,7.49
+pinon nuts,541,7.41,34.08,51.06
+sea lion,137,22.90,5.00,0.00
+wocas,361,7.90,1.07,80.02
+hazelnuts,628,14.89,52.99,22.98
+piki bread,390,9.06,7.16,72.22
+tamales,168,13.19,4.70,18.28
+applebee's,189,26.85,9.08,0.00
+t.g.i. friday's,302,11.87,19.02,20.87
+restaurant,325,14.75,18.33,25.14
+cracker barrel,293,18.06,15.48,20.29
+denny's,295,19.17,14.50,22.03
+olive garden,184,11.28,10.84,10.33
+carrabba's italian grill,191,10.48,11.06,12.36
+on the border,195,3.56,4.86,34.15
+rest,142,3.96,3.46,23.74
+froz novlt,221,6.40,10.10,26.11
+creamy drsng,160,1.50,14.00,7.00
+imitation chs,390,25.00,32.00,1.00
+turkey ham,124,19.60,3.80,2.93
+milk dssrt,167,4.30,1.00,37.70
+whipped topping,224,3.00,13.10,23.60
+granola bar,536,9.60,31.20,54.10
+vegetable oil-butter sprd,465,0.00,53.00,0.00
+crmy drsg,107,1.40,2.70,20.00
+turkey&pork sausage,307,22.70,23.00,0.70
+pork sausage rice links,407,13.70,37.63,2.36
+papad,371,25.56,3.25,59.87
+rice cake,392,7.10,4.30,81.10
+gums,332,4.60,0.50,77.30
+salad dressing,390,0.90,33.40,23.80
+jams & preserves,132,0.30,0.30,53.42
+fluid replcmnt,10,0.00,0.00,2.45
+breakfast bars,464,9.80,17.60,66.70
+vermicelli,331,0.10,0.10,82.32
+luncheon slices,189,17.78,11.11,4.44
+vegetarian fillets,290,23.00,18.00,9.00
+vegetarian meatloaf or patties,197,21.00,9.00,8.00
+bacon bits,476,32.00,25.90,28.60
+butter replcmnt,373,2.00,1.00,89.00
+tomato sau,24,1.20,0.30,5.31
+whipped crm sub,100,0.90,6.00,10.60
+eggs,131,13.10,5.60,7.50
+dove,213,23.90,13.00,0.00
+soybean,151,12.50,8.10,6.90
+tomato&veg juc,22,0.60,0.10,4.59
+cranberry juc,46,0.39,0.13,12.20
+yeast extract spread,185,23.88,0.90,20.42
+tofu yogurt,94,3.50,1.80,15.96
+jellyfish,36,5.50,1.40,0.00
+breakfast bar,377,4.40,7.50,72.90
+mayonnaise drsng,688,0.00,77.80,0.30
+cheese food,257,4.08,19.50,16.18
+celery flakes,319,11.30,2.10,63.70
+vital wheat gluten,370,75.16,1.85,13.79
+frog legs,73,16.40,0.30,0.00
+snail,90,16.10,1.40,2.00
+turtle,89,19.80,0.50,0.00
