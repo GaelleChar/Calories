@@ -1,5 +1,5 @@
 # Calories
-calorie app database &lt;3
+calorie app database
 
 
 reading Yolo's boundingbox.Label
